@@ -1,4 +1,7 @@
-<!DOCTYPE html> <html>
+<!DOCTYPE html>
+{% load staticfiles %}
+ <html>
+
 	<head> 
 		<title>Rango</title> 
 	</head>
@@ -10,6 +13,7 @@
 		</div>
 		<div> 
 			<a href="/rango/about/">About</a><br /> 
+			<img src="{% static "images/trafalgar_law_design.jpg" %}" alt="design" />
 		</div> 
 	</body>
 </html>
