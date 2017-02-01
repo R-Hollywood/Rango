@@ -35,7 +35,7 @@ def populate():
          "url":"https://bottlepy.org/docs/dev/",
          "views":20},
         {"title":"Flask",
-         "url":"https://flask.pocoo.org",
+         "url":"http://flask.pocoo.org",
          "views":12}]
 
     cats={"Python":{"pages":python_pages,"views":128,"likes":64},
