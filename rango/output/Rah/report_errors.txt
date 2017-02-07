@@ -1,3 +1,0 @@
-I found errors while running the automated tests in github repository: https://github.com/R-Hollywood/Rango===========================================================================
-
-
